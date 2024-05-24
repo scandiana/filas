@@ -1,0 +1,9 @@
+fila = deuqe ([ 'A', 'B', 'C' ])
+# Inserindo o elemento D
+fila.append ('D')
+
+# Removendo A
+fila.popleft()
+
+3DEQUE (['B' , 'C', 'D'])
+print(fila)
