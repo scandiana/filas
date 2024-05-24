@@ -1,0 +1,6 @@
+fila = deque ([ 'A' , 'B' , 'C'])
+# Inserindo o elemento D
+fila.append ('D')
+
+# deque(['A' , 'B', 'C', 'D'])
+print(fila)
